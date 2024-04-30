@@ -1,6 +1,7 @@
 # Registration-Form
 1. Выполнена функция регистрации и входа в личный кабинет с сохранением в куки
-2. Подключена База Данных MySQL
+2. Функция выхода из личного кабинета
+3. Подключена База Данных MySQL
 
 <a href="https://ibb.co/sQ70djf"><img src="https://i.ibb.co/P4k7vxL/test.png" alt="test" border="0"></a>
 <a href="https://ibb.co/fCfqJMs"><img src="https://i.ibb.co/FB2mp6F/sign.png" alt="sign" border="0"></a>
